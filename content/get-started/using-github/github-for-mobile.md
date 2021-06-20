@@ -27,7 +27,7 @@ With {% data variables.product.prodname_mobile %} you can:
 For more information about notifications for {% data variables.product.prodname_mobile %}, see "[Configuring notifications](/github/managing-subscriptions-and-notifications-on-github/configuring-notifications#enabling-push-notifications-with-github-for-mobile)."
 
 ## Installing {% data variables.product.prodname_mobile %}
-
+By
 To install {% data variables.product.prodname_mobile %} for Android or iOS, see [{% data variables.product.prodname_mobile %}](https://github.com/mobile).
 
 ## Managing accounts
